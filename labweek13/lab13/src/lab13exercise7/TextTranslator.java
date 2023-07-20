@@ -10,7 +10,7 @@ public class TextTranslator
 				
 		if (translateTo.equals(toBeTranslate))
 		{
-		   EnglishWord = "Thank You";
+		   EnglishWord = "How are you?";
 		   return EnglishWord;
 		} 
 		else
