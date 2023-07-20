@@ -14,7 +14,7 @@ public class ClientTextTranslator
 	public static void main(String[] args)
 	{
 		FrameClient clientFrame = new FrameClient();
-		String text = "TERIMA KASIH";
+		String text = "Apa Khabar?";
 		String translateTo = "English";
 		
 		try
